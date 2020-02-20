@@ -10,7 +10,7 @@ export default class Node extends Component {
 render(){
     return(
         <div className='node'>
-
+            node
         </div>
     )
 }
